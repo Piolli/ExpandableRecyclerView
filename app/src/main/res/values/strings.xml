@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerView</string>
+    <string name="id_tag_details_view">id_tag_details_view</string>
+    <string name="id_tag_is_expand">id_tag_is_expand</string>
+</resources>
